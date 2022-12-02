@@ -10,7 +10,7 @@ I care a lot about **maintainable** and **readable** code.
 ---
 
 ### 🏫 Education
-**Toronto Metropolitan University** (formerly Ryerson) | 👩‍💻Computer Science
+**Toronto Metropolitan University** (formerly Ryerson) | 👨‍💻 Computer Science
 
 ---
 
